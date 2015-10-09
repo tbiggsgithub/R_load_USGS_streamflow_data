@@ -36,6 +36,8 @@ agency_cd  site_no	datetime	01_00060_00003	01_00060_00003_cd
 USGS	11010900	1967-10-01	0.00	A
 USGS	11010900	1967-10-02	0.00	A
 
+ ```R
+
 indir = "Complete pathway of working directory goes here"
 #  Example:  indir = "G:/SDSU/research/CA/small_watersheds_USGS/discharge_data/daily/"
 setwd(indir)
